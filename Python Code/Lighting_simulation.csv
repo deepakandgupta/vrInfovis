@@ -1,0 +1,26 @@
+Type,Intensity,Color,Range,Angle,Shadows,Baking,Lightmapping,Location
+Point Light,0.8,White,10,N/A,On,Off,Real-time,Livingroom
+Directional Light,0.6,Orange,N/A,N/A,On,Off,Baked,Livingroom
+Spot Light,1,Green,20,30,On,On,Real-time,Livingroom
+Area Light,0.5,Blue,N/A,N/A,Off,Off,Baked,Livingroom
+Directional Light,0.4,Orange,N/A,N/A,Off,On,Real-time,Livingroom
+Point Light,0.9,White,15,N/A,Off,Off,Real-time,Livingroom
+Spot Light,0.7,Green,18,45,On,On,Baked,Livingroom
+Area Light,0.6,Blue,,,Off,Off,Real-time,Livingroom
+Point Light,0.9,White,15,N/A,Off,Off,Real-time,Livingroom
+Spot Light,0.7,Green,18,45,On,On,Baked,Livingroom
+Area Light,0.6,Blue,,,Off,Off,Real-time,Livingroom
+Point Light,0.8,White,10,N/A,On,Off,Real-time,Kitchen
+Directional Light,0.6,Orange,N/A,N/A,On,Off,Baked,Kitchen
+Spot Light,1,Green,20,30,On,On,Real-time,Kitchen
+Area Light,0.5,Blue,N/A,N/A,Off,Off,Baked,Kitchen
+Directional Light,0.4,Orange,N/A,N/A,Off,On,Real-time,Kitchen
+Point Light,0.9,White,15,N/A,Off,Off,Real-time,Kitchen
+Point Light,0.8,White,10,N/A,On,Off,Real-time,Bedroom
+Directional Light,0.6,Orange,N/A,N/A,On,Off,Baked,Bedroom
+Spot Light,1,Green,20,30,On,On,Real-time,Bedroom
+Area Light,0.5,Blue,N/A,N/A,Off,Off,Baked,Bedroom
+Directional Light,0.4,Orange,N/A,N/A,Off,On,Real-time,Bedroom
+Point Light,0.9,White,15,N/A,Off,Off,Real-time,Bedroom
+Spot Light,0.7,Green,18,45,On,On,Baked,Bedroom
+Area Light,0.6,Blue,,,Off,Off,Real-time,Bedroom
